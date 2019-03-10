@@ -1,0 +1,25 @@
+.title {
+  font-size: 3rem;
+  text-decoration: underline;
+  color: #0ae4b8;
+  font-family: "Rubik", sans-serif;
+  text-shadow: 2px 2px 1px black;
+}
+
+.subText {
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
+.upTop {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  background: #4f0358;
+  padding: 10px;
+  box-shadow: 1px 1px 1px rgb(53, 5, 68);
+  position: fixed;
+  top: 0;
+  z-index: 1;
+}
